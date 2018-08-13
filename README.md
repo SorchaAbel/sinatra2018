@@ -1,0 +1,1 @@
+This app is like the rails girls ideas app but uses sinatra and not rails 
